@@ -1,0 +1,39 @@
+{
+  "models": [
+    { "id": "seedream", "name": "Seedream 4.0", "note": "字节，扩图语义连贯性好" },
+    { "id": "nano-banana", "name": "Nano Banana", "note": "Google，细节锐利" },
+    { "id": "qwen-image", "name": "Qwen-Image", "note": "阿里" },
+    { "id": "sdxl-inpaint", "name": "SDXL Outpaint", "note": "开源基线" }
+  ],
+  "cases": [
+    {
+      "id": "001-portrait-lr",
+      "name": "001 人像 · 左右扩",
+      "tags": ["人像", "左右扩"],
+      "original": "cases/001-portrait-lr/original.jpg",
+      "results": [
+        {
+          "model": "seedream",
+          "file": "cases/001-portrait-lr/seedream.jpg",
+          "frame": [0.25, 0, 0.5, 1]
+        },
+        {
+          "model": "nano-banana",
+          "file": "cases/001-portrait-lr/nano-banana.jpg",
+          "frame": [0.25, 0, 0.5, 1]
+        },
+        { "model": "qwen-image", "file": "cases/001-portrait-lr/qwen-image.jpg" }
+      ]
+    },
+    {
+      "id": "002-landscape-tb",
+      "name": "002 风景 · 上下扩",
+      "tags": ["风景", "上下扩"],
+      "original": "cases/002-landscape-tb/original.jpg",
+      "results": [
+        { "model": "seedream", "file": "cases/002-landscape-tb/seedream.jpg" },
+        { "model": "sdxl-inpaint", "file": "cases/002-landscape-tb/sdxl-inpaint.jpg" }
+      ]
+    }
+  ]
+}

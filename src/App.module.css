@@ -1,0 +1,37 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: var(--sidebar-w) minmax(0, 1fr) var(--rightbar-w);
+  flex: 1;
+  min-height: 0;
+}
+
+.sidebar,
+.rightbar {
+  min-height: 0;
+  overflow-y: auto;
+  background: var(--bg-2);
+}
+
+.sidebar {
+  border-right: 1px solid var(--line);
+}
+
+.rightbar {
+  border-left: 1px solid var(--line);
+}
+
+@media (max-width: 1180px) {
+  .layout {
+    grid-template-columns: 228px minmax(0, 1fr);
+  }
+
+  .rightbar {
+    display: none;
+  }
+}

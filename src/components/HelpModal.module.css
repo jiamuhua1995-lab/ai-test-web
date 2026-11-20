@@ -1,0 +1,79 @@
+.mask {
+  position: fixed;
+  z-index: 50;
+  display: grid;
+  inset: 0;
+  background: rgba(5, 7, 10, 0.6);
+  backdrop-filter: blur(2px);
+  place-items: center;
+}
+
+.box {
+  width: min(560px, 92vw);
+  max-height: 86vh;
+  padding: 20px 22px;
+  overflow-y: auto;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--bg-2);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+}
+
+.box h2 {
+  margin-bottom: 12px;
+  font-size: 15px;
+}
+
+.box h3 {
+  margin: 18px 0 8px;
+  color: var(--text-2);
+  font-size: 12px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.table td {
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(42, 50, 61, 0.6);
+  color: var(--text-2);
+}
+
+.table td:first-child {
+  width: 128px;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.pre {
+  margin: 0;
+  padding: 10px 12px;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  color: var(--text-2);
+  font-size: 11.5px;
+  line-height: 1.6;
+}
+
+.note {
+  margin: 10px 0 0;
+  color: var(--text-3);
+  font-size: 11.5px;
+}
+
+.note code {
+  padding: 1px 4px;
+  border-radius: 3px;
+  background: var(--bg-3);
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 18px;
+}

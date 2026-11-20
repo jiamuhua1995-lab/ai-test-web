@@ -1,0 +1,28 @@
+.mask {
+  position: fixed;
+  z-index: 60;
+  display: grid;
+  inset: 0;
+  background: rgba(6, 9, 13, 0.72);
+  place-items: center;
+  pointer-events: none;
+}
+
+.hint {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 28px 44px;
+  border: 2px dashed var(--accent);
+  border-radius: 14px;
+  background: rgba(22, 27, 34, 0.9);
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.hint small {
+  color: var(--text-3);
+  font-size: 11.5px;
+  font-weight: 400;
+}

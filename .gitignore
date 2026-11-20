@@ -1,0 +1,13 @@
+node_modules
+dist
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.DS_Store
+*.local
+.env
+.env.local
+
+# public/data/ 下的评测素材是要随站点一起发布的，故不忽略。
+# 新增批次前先想清楚体积：进了 git 历史就很难干净摘掉。
+# 导入后用 scripts/slim_data.py 压一遍再提交。

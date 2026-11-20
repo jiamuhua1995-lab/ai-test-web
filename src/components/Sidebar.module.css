@@ -1,0 +1,140 @@
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.chip {
+  padding: 2px 9px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: transparent;
+  color: var(--text-3);
+  font-size: 11px;
+}
+
+.chip:hover {
+  border-color: var(--line-2);
+  color: var(--text);
+}
+
+.chip.on {
+  border-color: transparent;
+  background: var(--accent);
+  color: #0b1017;
+  font-weight: 600;
+}
+
+.caseList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.caseItem {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  text-align: left;
+}
+
+.caseItem:hover {
+  background: var(--bg-3);
+}
+
+.caseItem.on {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.thumb {
+  flex: none;
+  width: 44px;
+  height: 34px;
+  border-radius: 4px;
+  background: var(--bg);
+  object-fit: cover;
+}
+
+.caseMeta {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  flex-direction: column;
+  line-height: 1.35;
+}
+
+.caseName {
+  overflow: hidden;
+  color: var(--text);
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.caseSub {
+  color: var(--text-3);
+  font-size: 10.5px;
+}
+
+.modelList {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.modelRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.modelRow:hover {
+  background: var(--bg-3);
+}
+
+.modelRow input {
+  width: 13px;
+  height: 13px;
+  accent-color: var(--accent);
+}
+
+.modelName {
+  flex: 1;
+  overflow: hidden;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.modelName.off {
+  color: var(--text-3);
+}
+
+.dim {
+  color: var(--text-3);
+  font-size: 10px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.zoomRow {
+  display: flex;
+  gap: 5px;
+}
+
+.zoomRow button {
+  flex: 1;
+}

@@ -1,0 +1,1747 @@
+{
+  "models": [
+    {
+      "id": "火山",
+      "name": "火山",
+      "note": "火山引擎 veImageX · 四周各扩 0.2（1080×2560 → 1512×2992）"
+    },
+    {
+      "id": "wanx2.1-A居中等比",
+      "name": "阿里 A居中等比",
+      "note": "阿里 wanx2.1-imageedit · 居中等比扩图，四周各扩到 2 倍"
+    },
+    {
+      "id": "wanx2.1-B上下扩图",
+      "name": "阿里 B上下扩图",
+      "note": "阿里 wanx2.1-imageedit · 上下扩图，高度扩到 2 倍"
+    },
+    {
+      "id": "wanx2.1-C左右扩图",
+      "name": "阿里 C左右扩图",
+      "note": "阿里 wanx2.1-imageedit · 左右扩图，宽度扩到 2 倍"
+    },
+    {
+      "id": "wanx2.1-D非居中扩图",
+      "name": "阿里 D非居中扩图",
+      "note": "阿里 wanx2.1-imageedit · 非居中扩图，原图靠右，左侧扩约 1.5 倍"
+    }
+  ],
+  "cases": [
+    {
+      "id": "001_动漫",
+      "name": "001 动漫 · 影像杂志02-95",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/001_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/001_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/001_动漫/_thumb.webp",
+      "source": "影像杂志02-95",
+      "category": "动漫"
+    },
+    {
+      "id": "002_动漫",
+      "name": "002 动漫 · 影像杂志02-23",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/002_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/002_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/002_动漫/_thumb.webp",
+      "source": "影像杂志02-23",
+      "category": "动漫"
+    },
+    {
+      "id": "003_动漫",
+      "name": "003 动漫 · 影像杂志02-27",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/003_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/003_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/003_动漫/_thumb.webp",
+      "source": "影像杂志02-27",
+      "category": "动漫"
+    },
+    {
+      "id": "004_动漫",
+      "name": "004 动漫 · 影像杂志02-10",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/004_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/004_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/004_动漫/_thumb.webp",
+      "source": "影像杂志02-10",
+      "category": "动漫"
+    },
+    {
+      "id": "005_动漫",
+      "name": "005 动漫 · 影像杂志02-11",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/005_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/005_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/005_动漫/_thumb.webp",
+      "source": "影像杂志02-11",
+      "category": "动漫"
+    },
+    {
+      "id": "006_动漫",
+      "name": "006 动漫 · 影像杂志02-79",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/006_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/006_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/006_动漫/_thumb.webp",
+      "source": "影像杂志02-79",
+      "category": "动漫"
+    },
+    {
+      "id": "007_动漫",
+      "name": "007 动漫 · 1769125759",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/007_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/007_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/007_动漫/_thumb.webp",
+      "source": "1769125759",
+      "category": "动漫"
+    },
+    {
+      "id": "008_动漫",
+      "name": "008 动漫 · 影像杂志02-65",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/008_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/008_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/008_动漫/_thumb.webp",
+      "source": "影像杂志02-65",
+      "category": "动漫"
+    },
+    {
+      "id": "009_动漫",
+      "name": "009 动漫 · 影像杂志02-71",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/009_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/009_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/009_动漫/_thumb.webp",
+      "source": "影像杂志02-71",
+      "category": "动漫"
+    },
+    {
+      "id": "010_动漫",
+      "name": "010 动漫 · 影像杂志02-90",
+      "tags": [
+        "动漫",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/010_动漫/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/010_动漫/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/010_动漫/_thumb.webp",
+      "source": "影像杂志02-90",
+      "category": "动漫"
+    },
+    {
+      "id": "011_动物",
+      "name": "011 动物 · 影像杂志02-57",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/011_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/011_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/011_动物/_thumb.webp",
+      "source": "影像杂志02-57",
+      "category": "动物"
+    },
+    {
+      "id": "012_动物",
+      "name": "012 动物 · 影像杂志02-38",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/012_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/012_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/012_动物/_thumb.webp",
+      "source": "影像杂志02-38",
+      "category": "动物"
+    },
+    {
+      "id": "013_动物",
+      "name": "013 动物 · 影像杂志02-86",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/013_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/013_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/013_动物/_thumb.webp",
+      "source": "影像杂志02-86",
+      "category": "动物"
+    },
+    {
+      "id": "014_动物",
+      "name": "014 动物 · 影像杂志02-103",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/014_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/014_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/014_动物/_thumb.webp",
+      "source": "影像杂志02-103",
+      "category": "动物"
+    },
+    {
+      "id": "015_动物",
+      "name": "015 动物 · 影像杂志02-15",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/015_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/015_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/015_动物/_thumb.webp",
+      "source": "影像杂志02-15",
+      "category": "动物"
+    },
+    {
+      "id": "016_动物",
+      "name": "016 动物 · 影像杂志02-84",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/016_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/016_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/016_动物/_thumb.webp",
+      "source": "影像杂志02-84",
+      "category": "动物"
+    },
+    {
+      "id": "017_动物",
+      "name": "017 动物 · 影像杂志02-63",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/017_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/017_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/017_动物/_thumb.webp",
+      "source": "影像杂志02-63",
+      "category": "动物"
+    },
+    {
+      "id": "018_动物",
+      "name": "018 动物 · 影像杂志02-26",
+      "tags": [
+        "动物"
+      ],
+      "original": "cases/018_动物/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/018_动物/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.250204,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/018_动物/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.251225,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/018_动物/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/018_动物/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.330078,
+            0.251668,
+            0.669,
+            0.49237
+          ]
+        },
+        {
+          "model": "火山",
+          "file": "cases/018_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/018_动物/_thumb.webp",
+      "source": "影像杂志02-26",
+      "category": "动物"
+    },
+    {
+      "id": "019_动物",
+      "name": "019 动物 · 影像杂志02-78",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/019_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/019_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/019_动物/_thumb.webp",
+      "source": "影像杂志02-78",
+      "category": "动物"
+    },
+    {
+      "id": "01_人像_影像杂志02-124",
+      "name": "01 人像 · 影像杂志02-124",
+      "category": "人像",
+      "source": "影像杂志02-124",
+      "tags": [
+        "人像"
+      ],
+      "original": "cases/01_人像_影像杂志02-124/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/01_人像_影像杂志02-124/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/01_人像_影像杂志02-124/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.0,
+            0.252859,
+            0.999,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/01_人像_影像杂志02-124/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/01_人像_影像杂志02-124/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.330078,
+            0.253487,
+            0.669,
+            0.49237
+          ]
+        }
+      ],
+      "thumb": "cases/01_人像_影像杂志02-124/_thumb.webp"
+    },
+    {
+      "id": "020_动物",
+      "name": "020 动物 · 影像杂志02-81",
+      "tags": [
+        "动物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/020_动物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/020_动物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/020_动物/_thumb.webp",
+      "source": "影像杂志02-81",
+      "category": "动物"
+    },
+    {
+      "id": "021_风景",
+      "name": "021 风景 · 影像杂志02-73",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/021_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/021_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/021_风景/_thumb.webp",
+      "source": "影像杂志02-73",
+      "category": "风景"
+    },
+    {
+      "id": "022_风景",
+      "name": "022 风景 · 影像杂志02-109",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/022_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/022_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/022_风景/_thumb.webp",
+      "source": "影像杂志02-109",
+      "category": "风景"
+    },
+    {
+      "id": "023_风景",
+      "name": "023 风景 · 影像杂志02-119",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/023_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/023_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/023_风景/_thumb.webp",
+      "source": "影像杂志02-119",
+      "category": "风景"
+    },
+    {
+      "id": "024_风景",
+      "name": "024 风景 · 影像杂志02-22",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/024_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/024_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/024_风景/_thumb.webp",
+      "source": "影像杂志02-22",
+      "category": "风景"
+    },
+    {
+      "id": "025_风景",
+      "name": "025 风景 · 影像杂志02-41",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/025_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/025_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/025_风景/_thumb.webp",
+      "source": "影像杂志02-41",
+      "category": "风景"
+    },
+    {
+      "id": "026_风景",
+      "name": "026 风景 · 影像杂志02-97",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/026_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/026_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/026_风景/_thumb.webp",
+      "source": "影像杂志02-97",
+      "category": "风景"
+    },
+    {
+      "id": "027_风景",
+      "name": "027 风景 · 影像杂志02-25",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/027_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/027_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/027_风景/_thumb.webp",
+      "source": "影像杂志02-25",
+      "category": "风景"
+    },
+    {
+      "id": "028_风景",
+      "name": "028 风景 · 影像杂志02-60",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/028_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/028_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/028_风景/_thumb.webp",
+      "source": "影像杂志02-60",
+      "category": "风景"
+    },
+    {
+      "id": "029_风景",
+      "name": "029 风景 · 影像杂志02-112",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/029_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/029_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/029_风景/_thumb.webp",
+      "source": "影像杂志02-112",
+      "category": "风景"
+    },
+    {
+      "id": "02_人像_影像杂志02-104",
+      "name": "02 人像 · 影像杂志02-104",
+      "category": "人像",
+      "source": "影像杂志02-104",
+      "tags": [
+        "人像"
+      ],
+      "original": "cases/02_人像_影像杂志02-104/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/02_人像_影像杂志02-104/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/02_人像_影像杂志02-104/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.252859,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/02_人像_影像杂志02-104/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/02_人像_影像杂志02-104/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.326172,
+            0.252274,
+            0.673,
+            0.495314
+          ]
+        }
+      ],
+      "thumb": "cases/02_人像_影像杂志02-104/_thumb.webp"
+    },
+    {
+      "id": "030_风景",
+      "name": "030 风景 · 影像杂志02-8",
+      "tags": [
+        "风景",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/030_风景/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/030_风景/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/030_风景/_thumb.webp",
+      "source": "影像杂志02-8",
+      "category": "风景"
+    },
+    {
+      "id": "031_静物",
+      "name": "031 静物 · 影像杂志02-65",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/031_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/031_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/031_静物/_thumb.webp",
+      "source": "影像杂志02-65",
+      "category": "静物"
+    },
+    {
+      "id": "032_静物",
+      "name": "032 静物 · 影像杂志02-14",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/032_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/032_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/032_静物/_thumb.webp",
+      "source": "影像杂志02-14",
+      "category": "静物"
+    },
+    {
+      "id": "033_静物",
+      "name": "033 静物 · 影像杂志02-84",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/033_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/033_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/033_静物/_thumb.webp",
+      "source": "影像杂志02-84",
+      "category": "静物"
+    },
+    {
+      "id": "034_静物",
+      "name": "034 静物 · 影像杂志02-12",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/034_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/034_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/034_静物/_thumb.webp",
+      "source": "影像杂志02-12",
+      "category": "静物"
+    },
+    {
+      "id": "035_静物",
+      "name": "035 静物 · 1769125769",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/035_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/035_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/035_静物/_thumb.webp",
+      "source": "1769125769",
+      "category": "静物"
+    },
+    {
+      "id": "036_静物",
+      "name": "036 静物 · 影像杂志02-63",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/036_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/036_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/036_静物/_thumb.webp",
+      "source": "影像杂志02-63",
+      "category": "静物"
+    },
+    {
+      "id": "037_静物",
+      "name": "037 静物 · 影像杂志02",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/037_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/037_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/037_静物/_thumb.webp",
+      "source": "影像杂志02",
+      "category": "静物"
+    },
+    {
+      "id": "038_静物",
+      "name": "038 静物 · 影像杂志02-37",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/038_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/038_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/038_静物/_thumb.webp",
+      "source": "影像杂志02-37",
+      "category": "静物"
+    },
+    {
+      "id": "039_静物",
+      "name": "039 静物 · 影像杂志02-100",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/039_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/039_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/039_静物/_thumb.webp",
+      "source": "影像杂志02-100",
+      "category": "静物"
+    },
+    {
+      "id": "03_动漫_影像杂志02-86",
+      "name": "03 动漫 · 影像杂志02-86",
+      "category": "动漫",
+      "source": "影像杂志02-86",
+      "tags": [
+        "动漫"
+      ],
+      "original": "cases/03_动漫_影像杂志02-86/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/03_动漫_影像杂志02-86/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.250204,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/03_动漫_影像杂志02-86/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.251634,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/03_动漫_影像杂志02-86/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/03_动漫_影像杂志02-86/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.326172,
+            0.251061,
+            0.673,
+            0.495314
+          ]
+        }
+      ],
+      "thumb": "cases/03_动漫_影像杂志02-86/_thumb.webp"
+    },
+    {
+      "id": "040_静物",
+      "name": "040 静物 · 影像杂志02-88",
+      "tags": [
+        "静物",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/040_静物/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/040_静物/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/040_静物/_thumb.webp",
+      "source": "影像杂志02-88",
+      "category": "静物"
+    },
+    {
+      "id": "041_人像",
+      "name": "041 人像 · 影像杂志02-96",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/041_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/041_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/041_人像/_thumb.webp",
+      "source": "影像杂志02-96",
+      "category": "人像"
+    },
+    {
+      "id": "042_人像",
+      "name": "042 人像 · 影像杂志02-101",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/042_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/042_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/042_人像/_thumb.webp",
+      "source": "影像杂志02-101",
+      "category": "人像"
+    },
+    {
+      "id": "043_人像",
+      "name": "043 人像 · 影像杂志02-133",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/043_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/043_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/043_人像/_thumb.webp",
+      "source": "影像杂志02-133",
+      "category": "人像"
+    },
+    {
+      "id": "044_人像",
+      "name": "044 人像 · 影像杂志02-98",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/044_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/044_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/044_人像/_thumb.webp",
+      "source": "影像杂志02-98",
+      "category": "人像"
+    },
+    {
+      "id": "045_人像",
+      "name": "045 人像 · 影像杂志02-58",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/045_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/045_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/045_人像/_thumb.webp",
+      "source": "影像杂志02-58",
+      "category": "人像"
+    },
+    {
+      "id": "046_人像",
+      "name": "046 人像 · 影像杂志02-130",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/046_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/046_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/046_人像/_thumb.webp",
+      "source": "影像杂志02-130",
+      "category": "人像"
+    },
+    {
+      "id": "047_人像",
+      "name": "047 人像 · 影像杂志02-114",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/047_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/047_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/047_人像/_thumb.webp",
+      "source": "影像杂志02-114",
+      "category": "人像"
+    },
+    {
+      "id": "048_人像",
+      "name": "048 人像 · 影像杂志02-63",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/048_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/048_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/048_人像/_thumb.webp",
+      "source": "影像杂志02-63",
+      "category": "人像"
+    },
+    {
+      "id": "049_人像",
+      "name": "049 人像 · 影像杂志02-31",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/049_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/049_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/049_人像/_thumb.webp",
+      "source": "影像杂志02-31",
+      "category": "人像"
+    },
+    {
+      "id": "04_动漫_影像杂志02-32",
+      "name": "04 动漫 · 影像杂志02-32",
+      "category": "动漫",
+      "source": "影像杂志02-32",
+      "tags": [
+        "动漫"
+      ],
+      "original": "cases/04_动漫_影像杂志02-32/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/04_动漫_影像杂志02-32/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.250204,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/04_动漫_影像杂志02-32/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.0,
+            0.252859,
+            0.999,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/04_动漫_影像杂志02-32/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/04_动漫_影像杂志02-32/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.330078,
+            0.253487,
+            0.669,
+            0.49237
+          ]
+        }
+      ],
+      "thumb": "cases/04_动漫_影像杂志02-32/_thumb.webp"
+    },
+    {
+      "id": "050_人像",
+      "name": "050 人像 · 影像杂志02-41",
+      "tags": [
+        "人像",
+        "1512×2992 ← 1080×2560"
+      ],
+      "original": "cases/050_人像/original.webp",
+      "results": [
+        {
+          "model": "火山",
+          "file": "cases/050_人像/火山.webp",
+          "frame": [
+            0.142857,
+            0.072193,
+            0.714286,
+            0.855615
+          ]
+        }
+      ],
+      "thumb": "cases/050_人像/_thumb.webp",
+      "source": "影像杂志02-41",
+      "category": "人像"
+    },
+    {
+      "id": "05_动物_影像杂志02-29",
+      "name": "05 动物 · 影像杂志02-29",
+      "category": "动物",
+      "source": "影像杂志02-29",
+      "tags": [
+        "动物"
+      ],
+      "original": "cases/05_动物_影像杂志02-29/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/05_动物_影像杂志02-29/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.250204,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/05_动物_影像杂志02-29/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.252451,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/05_动物_影像杂志02-29/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/05_动物_影像杂志02-29/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.332031,
+            0.254093,
+            0.667,
+            0.490898
+          ]
+        }
+      ],
+      "thumb": "cases/05_动物_影像杂志02-29/_thumb.webp"
+    },
+    {
+      "id": "07_静物_影像杂志02-16",
+      "name": "07 静物 · 影像杂志02-16",
+      "category": "静物",
+      "source": "影像杂志02-16",
+      "tags": [
+        "静物"
+      ],
+      "original": "cases/07_静物_影像杂志02-16/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/07_静物_影像杂志02-16/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/07_静物_影像杂志02-16/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.254493,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/07_静物_影像杂志02-16/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/07_静物_影像杂志02-16/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.332031,
+            0.257126,
+            0.667,
+            0.490898
+          ]
+        }
+      ],
+      "thumb": "cases/07_静物_影像杂志02-16/_thumb.webp"
+    },
+    {
+      "id": "08_静物_影像杂志02-86",
+      "name": "08 静物 · 影像杂志02-86",
+      "category": "静物",
+      "source": "影像杂志02-86",
+      "tags": [
+        "静物"
+      ],
+      "original": "cases/08_静物_影像杂志02-86/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/08_静物_影像杂志02-86/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/08_静物_影像杂志02-86/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.001953,
+            0.253268,
+            0.998047,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/08_静物_影像杂志02-86/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/08_静物_影像杂志02-86/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.324219,
+            0.251668,
+            0.675,
+            0.496786
+          ]
+        }
+      ],
+      "thumb": "cases/08_静物_影像杂志02-86/_thumb.webp"
+    },
+    {
+      "id": "09_风景_影像杂志02-120",
+      "name": "09 风景 · 影像杂志02-120",
+      "category": "风景",
+      "source": "影像杂志02-120",
+      "tags": [
+        "风景"
+      ],
+      "original": "cases/09_风景_影像杂志02-120/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/09_风景_影像杂志02-120/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/09_风景_影像杂志02-120/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.0,
+            0.252859,
+            0.999,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/09_风景_影像杂志02-120/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.248047,
+            0.0,
+            0.503,
+            0.997477
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/09_风景_影像杂志02-120/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.326172,
+            0.252274,
+            0.673,
+            0.495314
+          ]
+        }
+      ],
+      "thumb": "cases/09_风景_影像杂志02-120/_thumb.webp"
+    },
+    {
+      "id": "10_风景_影像杂志02-117",
+      "name": "10 风景 · 影像杂志02-117",
+      "category": "风景",
+      "source": "影像杂志02-117",
+      "tags": [
+        "风景"
+      ],
+      "original": "cases/10_风景_影像杂志02-117/original.webp",
+      "results": [
+        {
+          "model": "wanx2.1-A居中等比",
+          "file": "cases/10_风景_影像杂志02-117/wanx2.1-A居中等比.webp",
+          "frame": [
+            0.248047,
+            0.251019,
+            0.503,
+            0.497519
+          ]
+        },
+        {
+          "model": "wanx2.1-B上下扩图",
+          "file": "cases/10_风景_影像杂志02-117/wanx2.1-B上下扩图.webp",
+          "frame": [
+            0.0,
+            0.253268,
+            0.999,
+            0.495268
+          ]
+        },
+        {
+          "model": "wanx2.1-C左右扩图",
+          "file": "cases/10_风景_影像杂志02-117/wanx2.1-C左右扩图.webp",
+          "frame": [
+            0.25,
+            0.003268,
+            0.501,
+            0.993511
+          ]
+        },
+        {
+          "model": "wanx2.1-D非居中扩图",
+          "file": "cases/10_风景_影像杂志02-117/wanx2.1-D非居中扩图.webp",
+          "frame": [
+            0.332031,
+            0.255306,
+            0.667,
+            0.490898
+          ]
+        }
+      ],
+      "thumb": "cases/10_风景_影像杂志02-117/_thumb.webp"
+    }
+  ]
+}
